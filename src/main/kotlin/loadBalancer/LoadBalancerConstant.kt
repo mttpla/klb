@@ -1,0 +1,6 @@
+package klb
+
+const val MAX_PROVIDER_LIST_SIZE: Int = 10;
+
+const val MAX_PARALLEL_REQUEST_PER_PROVIDER: Int = 10;
+const val DEFAULT_HEART_BEAT_SECONDS = 10;
